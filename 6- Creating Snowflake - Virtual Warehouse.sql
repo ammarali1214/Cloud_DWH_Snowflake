@@ -28,4 +28,4 @@ min_cluster_count = 2;          -- it ranges from 1-10
 -- alter warehouse <warehouse_name> resume;
 
 -- To change the size of a warehouse in Snowflake:
-<warehouse_name> set warehouse_size = '<new_size>';
+-- <warehouse_name> set warehouse_size = '<new_size>';
