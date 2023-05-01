@@ -1,7 +1,7 @@
 ## Creating Dimensions and Fact Tables according to the Business Problem
 
 
-CREATE DATABASE ONLINE_STORE_DWH;
+CREATE DATABASE ONLINE_STORE_DWH; 	## DWH DB is created where required data will be inserted from raw tables 
 CREATE SCHEMA ONLINE_STORE_DWH;
 
 --TABLES (DIMENSIONS AND FACTS TABLES)
